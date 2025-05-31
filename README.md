@@ -1,5 +1,5 @@
 # klasifikasi-gambar
-Project ini menggunakan dataset Plastic - Paper - Garbage Bag Synthetic Images yang berasal dari Kaggle, berikut ini link dataset yang digunakan: Plastic - Paper - Garbage Bag Synthetic Images. 
+Project ini menggunakan dataset Plastic - Paper - Garbage Bag Synthetic Images yang berasal dari Kaggle 
 
 Lakukan instalasi library yang digunakan dalam project ini
 
